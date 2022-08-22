@@ -1,3 +1,4 @@
+// reccursive method
 class Solution {
     List<Integer> inorder = new ArrayList<>();
     public List<Integer> inorderTraversal(TreeNode root) {
